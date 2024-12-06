@@ -3,6 +3,7 @@
 Use npm workspace for monorepo. Frontend uses nextjs and backend use create-react-app
 
 ### Install
+
 ```sh
 npm install
 
@@ -16,6 +17,7 @@ npm install
 ### Run
 
 Admin
+
 ```sh
 cd admin
 npm start
@@ -23,9 +25,9 @@ npm start
 ```
 
 Frontend
+
 ```sh
 cd site
 npm run dev
-# visit http://localhost:3000
+# visit http://localhost:3001
 ```
-
